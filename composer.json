@@ -21,7 +21,7 @@
 	},
 	"require": {
 		"composer/installers": "~1.0",
-		"meerkat/kohana-core": ">=3.3",
+		"meerkat/kohana-core": "dev-3.3/master",
 		"php":                 ">=5.3.3"
 	},
 	"suggest": {
